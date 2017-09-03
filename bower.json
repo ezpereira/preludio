@@ -1,0 +1,22 @@
+{
+  "name": "preludio",
+  "authors": [
+    "Ezequiel Pereira <ezequiel.prog@gmail.com>"
+  ],
+  "description": "Uma lib para carregar js e css somente quando necessário",
+  "main": "app.js",
+  "keywords": [
+    "js",
+    "css",
+    "loading"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ezpereira/preludio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
